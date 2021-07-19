@@ -3,7 +3,7 @@ from tkinter import *
 root = Tk()
 root.title("Nado GUI")
 root.geometry('640x480+300+100') # 가로 * 세로 + x좌표 + y좌표
-
+ 
 Label(root, text='메뉴를 선택하세요').pack()
 
 burger_var = IntVar() # 여기에 int 형으로 값을 저장한다

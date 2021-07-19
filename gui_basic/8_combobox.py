@@ -3,7 +3,7 @@ from tkinter import *
 
 root = Tk()
 root.title("Nado GUI")
-root.geometry('640x480+300+100') # 가로 * 세로 + x좌표 + y좌표
+root.geometry('640x480+300+100') # 가로 * 세로 + x좌표 + y좌표 
 
 values = [str(i)+'일' for i in range(1, 32)] # 1 ~ 31 까지의 숫자
 combobox = ttk.Combobox(root, height=5, values=values) # height는 목록에 몇개가 동시에 보여지는지 정함

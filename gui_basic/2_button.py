@@ -1,6 +1,6 @@
 from tkinter import *
 
-root = Tk()
+root = Tk() 
 root.title("Nado GUI")
 
 # padx와 pady는 여백의 크기, width와 height는 fixed

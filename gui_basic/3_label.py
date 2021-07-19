@@ -11,7 +11,7 @@ photo = PhotoImage(file='gui_basic/img.png')
 label2 = Label(root, image=photo)
 label2.pack()
 
-def change():
+def change(): 
     label1.config(text='또 만나요') # config changes the property
 
     global photo2

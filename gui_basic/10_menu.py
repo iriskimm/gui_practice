@@ -28,7 +28,7 @@ menu.add_cascade(label='Edit')
 
 # Language 메뉴 추가 (radio 버튼을 통해서 택1)
 menu_lang = Menu(menu, tearoff=0)
-menu_lang.add_radiobutton(label='Python')
+menu_lang.add_radiobutton(label='Python') 
 menu_lang.add_radiobutton(label='Java')
 menu_lang.add_radiobutton(label='C++')
 menu.add_cascade(label='Language', menu = menu_lang)

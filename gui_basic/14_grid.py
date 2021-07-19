@@ -18,7 +18,7 @@ root.geometry('640x480+300+100') # 가로 * 세로 + x좌표 + y좌표
 # btn1.grid(row=0, column=0)
 # btn2.grid(row=1, column=1)
 
-# 맨 윗줄
+# 맨 윗줄 
 btn_f16 = Button(root, text='F16', width=5, height=2) # padx, pady 는 여백의 크기를 나타냄
 btn_f17 = Button(root, text='F17', width=5, height=2) # width, height are fixed values
 btn_f18 = Button(root, text='F18', width=5, height=2)
