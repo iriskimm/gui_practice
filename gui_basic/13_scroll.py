@@ -1,4 +1,3 @@
-import tkinter.messagebox as msgbox
 from tkinter import *
 
 root = Tk()
