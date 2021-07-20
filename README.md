@@ -1,7 +1,7 @@
 # Images Combiner
 
 ## Info
-This program combines multiple images into a single image with user's choice of size and format. 
+This program combines multiple images into a single image with the user's choice of file size, file path and file format. 
 
 ## Preview
 <img src="images_combiner/images/preview1.png">
