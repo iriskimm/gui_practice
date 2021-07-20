@@ -1,13 +1,15 @@
+# An image combiner that combines multiple images into a single image
+
 import os
 import tkinter.ttk as ttk
 import tkinter.messagebox as msgbox
 from tkinter import *
 from tkinter import filedialog
-from PIL import Image
+from PIL import Image 
 
 root = Tk() 
 root.title("Image Combiner")
-
+ 
 # adding file(s)
 def add_file():
     files = filedialog.askopenfilenames(title="Select image(s)", \
