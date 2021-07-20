@@ -7,4 +7,6 @@ This program combines multiple images into a single image with user's choice of 
 <img src="images_combiner/images/preview1.png">
 <img src="images_combiner/images/preview2.png">
 <img src="images_combiner/images/preview3.png">
-<img src="images_combiner/images/final_photo.png">
+
+Final Product:
+<img src="images_combiner/images/final_photo.jpg">
